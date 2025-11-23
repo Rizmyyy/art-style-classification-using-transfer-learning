@@ -25,4 +25,4 @@ Model dapat mengklasifikasikan 4 gaya seni:
 Dataset terdiri dari 4 kelas, masing-masing dipecah menjadi:
 • subset_train/ → untuk training dan validation
 • subset_test/ → untuk evaluasi akhir
-dataset bisa didownload di folder dataset dalam bentuk zip lalu diekstrak dan diupload ke google drive pribadi.
+dataset bisa didownload dalam bentuk zip lalu diekstrak dan diupload ke google drive pribadi.
